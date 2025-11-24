@@ -1,0 +1,281 @@
+{
+  "spider": "./custom_spider.jar",
+  "logo": "https://gitee.com/amg99/tvjson/raw/master/img/dysmt.gif",
+  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+  "lives": [],
+  "sites": [
+    {
+      "name": "💬嗷嗚彈幕",
+      "key": "💬嗷嗚彈幕",
+      "type": 3,
+      "api": "csp_GoConfigAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "⚙️網盤配置",
+      "key": "⚙️網盤配置",
+      "type": 3,
+      "api": "csp_MyConfigAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "📁本地文件",
+      "key": "📁本地文件",
+      "type": 3,
+      "api": "csp_MyLocalAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "☁️我的挎鈳",
+      "key": "☁️我的挎鈳",
+      "type": 3,
+      "api": "csp_MyQuarkAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/quark.json"
+    },
+    {
+      "name": "☁️我的佰渡",
+      "key": "☁️我的佰渡",
+      "type": 3,
+      "api": "csp_MyBaiduAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/baidu.json"
+    },
+    {
+      "name": "🎬瓜子",
+      "key": "🎬瓜子",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/guazi.json"
+    },
+    {
+      "name": "🎭杜北",
+      "key": "🎭杜北",
+      "type": 3,
+      "api": "csp_DubkAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/dubk.json"
+    },
+    {
+      "name": "🎪伊外",
+      "key": "🎪伊外",
+      "type": 3,
+      "api": "csp_YIysAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🎯荐片",
+      "key": "🎯荐片",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/jpian.json"
+    },
+    {
+      "name": "🥇金牌",
+      "key": "🥇金牌",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🏆高端",
+      "key": "🏆高端",
+      "type": 3,
+      "api": "csp_DdysAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🍿哔嘀",
+      "key": "🍿哔嘀",
+      "type": 3,
+      "api": "csp_BidysAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🍏小苹果",
+      "key": "🍏小苹果",
+      "type": 3,
+      "api": "csp_XpgAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🎈二小",
+      "key": "🎈二小",
+      "type": 3,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sites": "http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun",
+        "filters": ""
+      }
+    },
+    {
+      "name": "🤪玩偶",
+      "key": "🤪玩偶",
+      "type": 3,
+      "api": "csp_WoggAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,http://wogg4k.333232.xyz,https://www.wogg.one",
+        "filters": ""
+      }
+    },
+    {
+      "name": "🍈爱瓜",
+      "key": "🍈爱瓜",
+      "type": 3,
+      "api": "csp_AiGuaAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "📹YOU视",
+      "key": "📹YOU视",
+      "type": 3,
+      "api": "csp_YouSPAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🎦豪堪短剧",
+      "key": "🎦豪堪短剧",
+      "type": 3,
+      "api": "csp_HHkkAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "📺盒马短剧",
+      "key": "📺盒马短剧",
+      "type": 3,
+      "api": "csp_HemaAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🎞️拜拜短剧",
+      "key": "🎞️拜拜短剧",
+      "type": 3,
+      "api": "csp_BddjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🐠锦鲤短剧",
+      "key": "🐠锦鲤短剧",
+      "type": 3,
+      "api": "csp_JLdjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🍩甜圈短剧",
+      "key": "🍩甜圈短剧",
+      "type": 3,
+      "api": "csp_TQdjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🍉西瓜短剧",
+      "key": "🍉西瓜短剧",
+      "type": 3,
+      "api": "csp_HgggAmns",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "changeable": 1
+    },
+    {
+      "name": "🔍fish盘搜",
+      "key": "🔍fish盘搜",
+      "type": 3,
+      "api": "csp_FishPsAmns",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🔍短剧盘搜",
+      "key": "🔍短剧盘搜",
+      "type": 3,
+      "api": "csp_DuanjPsAmns",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴推送",
+      "type": 3,
+      "api": "csp_PushAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    }
+  ]
+}
