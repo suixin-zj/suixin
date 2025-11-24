@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider.jar",
   "logo": "https://gitee.com/amg99/tvjson/raw/master/img/dysmt.gif",
-  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+  "warningText": "仅仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [],
   "sites": [
     {
